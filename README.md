@@ -1,5 +1,4 @@
 # Amazon-Prices-Tracker
-# Makeme file for Amazon price drop tracker
 
 ## Overview
 This Python script automates the process of tracking price drops of your favorite Amazon items. When the script detects a price drop, it notifies you via the inputed email.
