@@ -1,7 +1,7 @@
 # Amazon-Prices-Tracker
 
 ## Overview
-This Python script automates the process of tracking price drops of your favorite Amazon items. When the script detects a price drop, it notifies you via the inputed email.
+This Python script automates the process of tracking price drops of your favorite Amazon items. When the script detects a price drop, it notifies you via the inputted email.
 
 ## Requirements
 - Python >= 3.6
